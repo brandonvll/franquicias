@@ -1,2 +1,13 @@
 com\practicanequi\apirestful\franquicias\entity\Franquicia.class
+com\practicanequi\apirestful\franquicias\controller\FranquiciaController.class
+com\practicanequi\apirestful\franquicias\service\ProductoService.class
+com\practicanequi\apirestful\franquicias\entity\Producto.class
+com\practicanequi\apirestful\franquicias\entity\Sucursal.class
 com\practicanequi\apirestful\franquicias\FranquiciasApplication.class
+com\practicanequi\apirestful\franquicias\repository\FranquiciaRepository.class
+com\practicanequi\apirestful\franquicias\service\SucursalService.class
+com\practicanequi\apirestful\franquicias\repository\ProductoRepository.class
+com\practicanequi\apirestful\franquicias\controller\ProductoController.class
+com\practicanequi\apirestful\franquicias\repository\SucursalRepository.class
+com\practicanequi\apirestful\franquicias\service\FranquiciaService.class
+com\practicanequi\apirestful\franquicias\controller\SucursalController.class
