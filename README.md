@@ -7,3 +7,4 @@ API RESTful franquicias
 - Hibernate 6.3.1
 - maven 3.9.9
 - Docker Desktop(MySQL)
+- IntellijIDEA
